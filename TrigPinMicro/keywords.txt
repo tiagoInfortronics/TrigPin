@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Debounce
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TrigPin	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setInterval	 KEYWORD2
+setModoOp	 KEYWORD2
+sethighLowDefault	 KEYWORD2
+update	KEYWORD2
+read	KEYWORD2
+trigger KEYWORD2
+write	KEYWORD2
+enable	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
